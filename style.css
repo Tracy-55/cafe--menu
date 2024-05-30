@@ -30,11 +30,19 @@ h1, h2, p {
   padding: 20px;
   max-width: 500px;
 }
+<<<<<<< HEAD
+=======
+
+>>>>>>> 59dcb336b098bd80cc617ca5a3bce2c7b19f27e9
 img {
   display: block;
   margin-left: auto;
   margin-right: auto;
 }
+<<<<<<< HEAD
+=======
+
+>>>>>>> 59dcb336b098bd80cc617ca5a3bce2c7b19f27e9
 hr {
   height: 2px;
   background-color: brown;
@@ -91,4 +99,7 @@ a:hover {
 a:active {
   color: brown;
 }
+<<<<<<< HEAD
 
+=======
+>>>>>>> 59dcb336b098bd80cc617ca5a3bce2c7b19f27e9
